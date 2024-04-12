@@ -62,3 +62,5 @@ git push
 ```sh
 git pull
 ```
+
+https://github.com/RustamDanis/my_new_repository.git
